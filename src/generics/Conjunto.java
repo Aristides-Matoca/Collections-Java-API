@@ -21,4 +21,4 @@ public class Conjunto {
 		for(int b: setGeneric)
 			System.out.println(b);
 	}
-}//Teste
+}
