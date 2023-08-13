@@ -22,4 +22,4 @@ public class Mapa {
 		for(Map.Entry<String, Integer> entry: mapGeneric.entrySet())
 			System.out.println(entry.getKey() + ", Valor: " + entry.getValue());
 	}
-}//Teste do GitHub
+}//Teste
