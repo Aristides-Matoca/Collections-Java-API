@@ -58,6 +58,5 @@ public class AgendaEventos {
 	
 		eventos.exibirAgenda();
 		eventos.obterProximoEvento();
-		//Teste do git
 	}
 }
